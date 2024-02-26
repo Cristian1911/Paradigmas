@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giral\\Documents\\UPB\\Paradigmas\\Entregas\\Mine\\TaskManager\\TaskManager\\TaskManager.csproj": {}
+    "C:\\Users\\giral\\Documents\\UPB\\Paradigmas\\Entregas\\code_of_mine\\Paradigmas\\TaskManager\\TaskManager\\TaskManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giral\\Documents\\UPB\\Paradigmas\\Entregas\\Mine\\TaskManager\\TaskManager\\TaskManager.csproj": {
+    "C:\\Users\\giral\\Documents\\UPB\\Paradigmas\\Entregas\\code_of_mine\\Paradigmas\\TaskManager\\TaskManager\\TaskManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giral\\Documents\\UPB\\Paradigmas\\Entregas\\Mine\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectUniqueName": "C:\\Users\\giral\\Documents\\UPB\\Paradigmas\\Entregas\\code_of_mine\\Paradigmas\\TaskManager\\TaskManager\\TaskManager.csproj",
         "projectName": "TaskManager",
-        "projectPath": "C:\\Users\\giral\\Documents\\UPB\\Paradigmas\\Entregas\\Mine\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectPath": "C:\\Users\\giral\\Documents\\UPB\\Paradigmas\\Entregas\\code_of_mine\\Paradigmas\\TaskManager\\TaskManager\\TaskManager.csproj",
         "packagesPath": "C:\\Users\\giral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giral\\Documents\\UPB\\Paradigmas\\Entregas\\Mine\\TaskManager\\TaskManager\\obj\\",
+        "outputPath": "C:\\Users\\giral\\Documents\\UPB\\Paradigmas\\Entregas\\code_of_mine\\Paradigmas\\TaskManager\\TaskManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giral\\AppData\\Roaming\\NuGet\\NuGet.Config",
